@@ -1,0 +1,22 @@
+#Create a small calculator which only does ‘+’ or ‘-‘Operations. (Hint: Take three variable inputs with
+#one being used for the operator)
+START
+
+// Input/Output
+INPUT variable1
+INPUT variable2
+INPUT variable3
+
+// variables and Initialization
+SET sum to 0
+SET sub to 0
+// Process Steps
+SET sum to variable1 + variable2
+SET sub to variable1 - variable2
+
+// Conditional Statements
+IF variable3= + THEN
+PRINT sum
+ELSE
+PRINT sub
+END
