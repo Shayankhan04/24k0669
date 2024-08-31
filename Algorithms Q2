@@ -1,0 +1,5 @@
+#Implement an algorithm where the user enters a number, and an appropriate month is displayed.
+Ask the user to enter a number 
+Set months to(Jan, Feb, Mar, Apr, May, Jun, Jul, Aug, Sep, Oct, Nov, Dec)
+IF number is less than 12 THEN
+  Display months(number)
