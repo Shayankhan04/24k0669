@@ -1,0 +1,10 @@
+#Implement an algorithm for determining if an Nth is a divisor of an n Number (i.e. 2 is a divisor of 6).
+#If so, determine if it’s an even number or odd number as well.
+Ask the user to enter N(number that is divisor) 
+Ask the user to enter n(number that is divided by the divisor)
+Set division to n/N
+IF division is INTEGER THEN
+  IF division MOD 2 is 0 THEN
+    Number is EVEN
+  ELSE Number is ODD
+Display Number
