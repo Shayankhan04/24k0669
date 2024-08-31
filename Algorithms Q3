@@ -1,0 +1,7 @@
+#Implement an algorithm for making a simple calculator with all the operators (+,-,*,/,%)
+Ask the user to enter number1
+Ask the user to enter number2
+Ask the user to enter variable
+IF operation is (+,-,*,/,%) THEN
+  Set calculator to (number1 (variable) number2) 
+Display calculator for the user
