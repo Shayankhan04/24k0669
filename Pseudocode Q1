@@ -1,0 +1,23 @@
+#Find the maximum number in any of three variables.
+START
+
+// Input/Output
+INPUT variable1
+INPUT variable2
+INPUT variable3
+
+// variables and Initialization
+SET greatestVar to 0
+
+// Process Steps
+
+// Conditional Statements
+IF variable1 > greatestVar
+      PRINT variable1, "is the greatest number"
+  ELSE
+      IF variable2 > greatestVar
+            PRINT variable2, "is the greatest number"
+ELSE
+      PRINT variable3, "is the greatest number"
+
+END
