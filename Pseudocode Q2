@@ -1,0 +1,24 @@
+#Take three variables as input and add them without using the + operator (Use your head for this)
+START
+
+// Input/Output
+INPUT variable1
+INPUT variable2
+INPUT variable3
+
+// variables and Initialization
+SET sum to 0
+
+// Process Steps
+SET sum to variable1
+
+// Conditional Statements
+FOR 1 TO variable2 
+  sum += 1
+NEXT
+FOR 1 TO variable3 
+  sum+= 1
+NEXT
+PRINT sum
+
+END
